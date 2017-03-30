@@ -13,9 +13,13 @@ namespace coreMvcTest.Controllers
 
         public IActionResult About()
         {
-            var headers = String.Empty;
-            foreach (var key in HttpContext.Request.Headers.Keys)
-                ViewBag.Message = headers += key + "=" + HttpContext.Request.Headers[key] + Environment.NewLine;
+            //var headers = String.Empty;
+           //foreach (var key in HttpContext.Request.Headers.Keys)
+                //ViewBag.Message = headers += key + "=" + HttpContext.Request.Headers[key] + Environment.NewLine;
+
+            string strHeaderKey =  HttpContext.Request.Headers["User-Agent"].ToString();
+
+            ViewBag.Message = String.Format("User-Agent: {0}", strHeaderKey);
 
             return View();
         }
