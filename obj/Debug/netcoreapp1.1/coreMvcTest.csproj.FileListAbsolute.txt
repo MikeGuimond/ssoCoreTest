@@ -1,0 +1,8 @@
+C:\NetCoreProjects\coreMvcTest\bin\Debug\netcoreapp1.1\coreMvcTest.deps.json
+C:\NetCoreProjects\coreMvcTest\bin\Debug\netcoreapp1.1\coreMvcTest.runtimeconfig.json
+C:\NetCoreProjects\coreMvcTest\bin\Debug\netcoreapp1.1\coreMvcTest.runtimeconfig.dev.json
+C:\NetCoreProjects\coreMvcTest\bin\Debug\netcoreapp1.1\coreMvcTest.dll
+C:\NetCoreProjects\coreMvcTest\bin\Debug\netcoreapp1.1\coreMvcTest.pdb
+C:\NetCoreProjects\coreMvcTest\obj\Debug\netcoreapp1.1\coreMvcTest.AssemblyInfo.cs
+C:\NetCoreProjects\coreMvcTest\obj\Debug\netcoreapp1.1\coreMvcTest.dll
+C:\NetCoreProjects\coreMvcTest\obj\Debug\netcoreapp1.1\coreMvcTest.pdb
