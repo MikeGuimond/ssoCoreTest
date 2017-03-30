@@ -9683,16 +9683,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\NetCoreProjects\\coreMvcTest\\coreMvcTest.csproj",
+      "projectUniqueName": "C:\\NetCoreProjects\\coreMvcTest\\coreMvcTest.csproj",
       "projectName": "coreMvcTest",
-      "projectPath": "c:\\NetCoreProjects\\coreMvcTest\\coreMvcTest.csproj",
-      "outputPath": "c:\\NetCoreProjects\\coreMvcTest\\obj\\",
+      "projectPath": "C:\\NetCoreProjects\\coreMvcTest\\coreMvcTest.csproj",
+      "outputPath": "C:\\NetCoreProjects\\coreMvcTest\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/coreMvcTest.dll": "c:\\NetCoreProjects\\coreMvcTest\\bin\\placeholder\\netcoreapp1.1\\coreMvcTest.dll"
+        "lib/netcoreapp1.1/coreMvcTest.dll": "C:\\NetCoreProjects\\coreMvcTest\\bin\\placeholder\\netcoreapp1.1\\coreMvcTest.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {
